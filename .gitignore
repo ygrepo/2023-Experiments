@@ -133,3 +133,5 @@ notebooks/data/*
 .DS_Store
 .history
 _data/*
+data/*
+notebooks/figures/*
